@@ -32,7 +32,7 @@ A responsive portfolio website for John Watson, a UI/UX designer and web develop
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ui-portfolio.git
+   git clone https://github.com/kimaka254/plp_web_group_assignment.git
 2. Open the project folder.
 
 3. Open index.html in your browser.
