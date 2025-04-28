@@ -25,7 +25,7 @@
     background-size: cover;
     background-position: center;
     color: var(--white);
-    max-height: 100vh;
+    min-height: 100vh;
     display: flex;
     flex-direction: column;
     padding-top: 1.5rem;
