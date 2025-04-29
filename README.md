@@ -1,25 +1,38 @@
-# UI Portfolio - John Watson
+# 🎨 UI Portfolio - John Watson
 
-![Project Screenshot](/screenshot.png)
+![Project Screenshot](images/Screenshot.png)
 
-A responsive portfolio website for John Watson, a UI/UX designer and web developer, built with HTML, CSS, and Bootstrap.
+A sleek and responsive portfolio website for **John Watson**, a UI/UX designer and web developer. Built using HTML, CSS, and Bootstrap 5, the website showcases personal projects, partner collaborations, and contact details, all wrapped in a clean and modern layout.
+
+---
+
+## 🔗 Live Preview
+
+🌐 **View Website:** [Live Demo](https://kimaka254.github.io/plp_web_group_assignment/)  
+> *(Hosted on GitHub Pages)*
+
+---
 
 ## 🌟 Features
 
-- Responsive design that works on all devices
-- Clean, modern UI with green accent theme
-- Interactive elements with smooth animations
-- Dark mode toggle functionality
-- Organized project structure with semantic HTML
-- Optimized performance and accessibility
+- ✅ Fully responsive across all devices  
+- 🧑‍🎨 Clean, modern UI with green accent theme  
+- ✨ Smooth animations and hover effects  
+- 🌙 Dark mode toggle
+- 🧩 Semantic HTML and modular code structure  
+- ⚡ Optimized for performance and accessibility  
+
+---
 
 ## 🛠 Technologies Used
 
-- HTML5
-- CSS3
-- Bootstrap 5
-- Font Awesome (for icons)
-- Google Fonts (Poppins)
+- **HTML5**  
+- **CSS3**  
+- **Bootstrap 5**  
+- **Font Awesome 5**  
+- **Google Fonts (Poppins)**  
+
+---
 
 ## 👥 Team Members
 
