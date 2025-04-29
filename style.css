@@ -571,6 +571,7 @@
     color: #555;
     margin: 0.2rem 0 0;
   }
+  
   @media (max-width: 767.98px) {
     .additional-services {
       margin: 0;
